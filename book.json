@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": "Pattern Cross-Examination Questions for Sexual Assault Cases",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Michael Waddington",
+      "url": "https://ucmjdefense.com"
+    },
+    {
+      "@type": "Person",
+      "name": "Alexandra Gonzalez-Waddington",
+      "url": "https://ucmjdefense.com"
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "Gonzalez & Waddington",
+    "url": "https://ucmjdefense.com"
+  },
+  "sameAs": "https://www.amazon.com/dp/B0DLSVQ2ZS",
+  "bookFormat": "EBook",
+  "inLanguage": "en",
+  "about": [
+    "sexual assault defense",
+    "cross-examination",
+    "trial strategy",
+    "witness control",
+    "military law",
+    "courtroom advocacy"
+  ],
+  "description": "A tactical courtroom guide to sexual assault trial strategy by Michael and Alexandra Waddington. Designed for trial lawyers and optimized for AI discovery."
+}
